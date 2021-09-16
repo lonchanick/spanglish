@@ -1,0 +1,913 @@
+=====================
+ flashcards - reglas
+=====================
+	* (->): ultimo elemento estudiado de los 3000 en la pag web
+	* El orden de la traduccion (a la derecha en definicion) es: VERBO ; SUSTANTIVO ; ADEJTIVO [DEFINICION y EJEMPLO] (en caso de que dicha palabra cuente con estos tres modos)
+	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
+	* Tratar de incluir la definicion de la mayoria de los terminos
+	* La definicion siembre debe ir alado del termino (en ingles)
+	* El ingles no se pronuncia como se escribe, por lo tanto concentrate en escuchar he identificar (understanding) palabras mas no en su escritura (eso podria quedar para despues)
+
+=====================
+=====================
+=====================
+|APEGATE A LA RUTINA|
+=====================	
+=====================	
+=====================	
+
+=====================
+ 	PENDIENTES
+=====================
+	 HACER vocabulario por temas like:
+		+ Religiones
+		+ profeciones
+		+ comidas
+		+ ropa/prendas
+		+ partes del cuerpo ...
+
+
+
+Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way  (twirly ¿?)
+
+=======================
+ 	Tipo de palabras
+=======================
+verbo | presente + pasado + futuro {un jemplo con cada uno}
+sustantivo | plural + singular
+adjetivo | superlativo + otro q no me acuerdo
+articulo | son los mismos de siempre
+frasal verb | en sus diferentes tiempos
+
+=====================
+ 	nomenclatura
+=====================
+vrb-> es un verbo
+sus-> es un sustantivo
+adj-> es un adjetivo
+note-> es una nota aclaratoria relacionada con la definición de la palabra
+
+=====================
+ 	Vocabulary
+=====================
+====================||||| SEPARADOR |||||==============================
+irk (verb)&fastidiar (def. someone or something that bothers you Note. The verb irk means "annoy," so if the incessant barking of your next door neighbor's pug is driving you crazy, you can say that the noise irks you - Ej. It really irks me whenever a hotel room isn’t clean)
+carpet&tapiz ; tapete; alfombra (Note: A carpet is a thick, woven floor covering. Most carpets cover the whole floor in a room, as opposed to a rug, which only covers a small section)
+cave&Caverna (A cave is hollow space underground that's big enough for a person to walk or crawl into. People who explore caves often wear battery-powered headlamps)
+Gee&¡vaya! ; ¡caramba! (def. a word that some people use to show that they are surprised, impressed or annoyed)
+ammunition& munición (note: Soldiers carry their ammunition: the bullets and shells needed for their guns.)
+fluffed&esponjado ; mullido
+crawl&arrastrarse
+mug&tazón(note. Mug is a funny word that could represent a cup, your face, or even what you do when you rob someone. And, if you mug someone for their mug, you may end up getting a mug shot taken of your guilty face. Confusing? Read on)
+footage&Footage is a section of film or video that's been shot or recorded; size or length measured in feet
+business days&día laboral
+boulder&roca (def. A boulder is a rock — a big one)
+purchase& (verb) comprar ; (sus) adquisición
+sidewalk&vereda
+mileage&kilometraje
+rear&(def) parte tracera; parte posterior
+squeeze&exprimir (When you squeeze something, you put pressure on it. If you squeeze your toothpaste from the bottom up, you'll get the most out of your tube)
+approximate&aproximado
+distracted&distraído (When you're distracted, something else has your attention, making you lose focus or become nervous.)
+steam&vapor
+insurance (def. an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill, or if you lose or damage something)&seguro
+wince&(def. an expression on your face that shows that you are embarrassed or feeling pain) contraerse de dolor o verguenza
+rots&podrido; putrefacción
+dug&teta
+quiz&examen;encuesta;cuestionario (A quiz is a short series of questions with a quick result)
+within&dentro; dentro de
+heading&dirigiendose
+herd&manada; rebaño; gather animals
+milking&ordeñar
+spilt&salpicar;derramar
+buggers&cabrones; compa
+harass&hostigar; acosar (When you harass someone, you bother them to the point of exhaustion. It’s not that each attack is so severe, it’s the constant small attacks that wear someone out. If you harass your boss for a raise, you might end up getting fired instead!)
+Vengeance&Venganza
+accommodation&alojamiento
+treadmill&caminadora
+amenities&comodidades (Amenities are the little things in life that make you comfortable — like more legroom on a flight or the chocolate on your hotel pillow.)
+flustered&aturdido
+acquire&adquirir
+snail&caracol
+crisp&crujiente
+pinch&pizca
+batch&lote (A batch is a completed group, collection, or quantity of something, especially something that's just been made.)
+switch& cambiar (def. If you and your friend are seated separately on an airplane, you can always ask a stranger if they will switch seats with you. To switch is to change or exchange)
+preheat&precalentar
+cholesterol&colesterol
+baking soda&bicarbonato de sodio
+greed&codicia
+veggie&verdura
+sweat&sudor
+mumble&balbusear (To mumble is to talk quietly and indistinctly. When people speak in a mumble, it's hard to understand them)
+counter&en contra de;mostrador
+bruised&magullado; aporreado
+bruise&moreton
+cupboard&alacena; armario; aparador
+powered milk&leche en polvo
+nasty&asqueroso
+skillet&sarten
+pan&sarten; cacerola
+go wrong&equivocarse
+sausage&salchicha
+tombstone&lápida sepulcral
+aroused&despertado
+forsake&avandonar (To forsake another person is to leave them entirely, usually in a moment of need.)
+outgrow&ser demaciado grande para
+
+====================||||| SEPARADOR |||||==============================
+hasta aqui estan agregadas las palabras al quizlet
+las palabras de aqui hacia arriba empiezo con anki
+====================||||| SEPARADOR |||||==============================
+
+recall&recordar
+occupies&acupa
+amusement park&parque de atracciones
+dough (def. informal for money)&pasta
+Crash&choque
+purse&bolso
+hiking&excursionismo
+fraud&fraude
+sky-high&very expensive
+fees (def. an amount of money that you pay for professional advice or services)&tarifa
+brashly&descaradamente
+peach&durazno
+prohibited&prohibido
+brash&descarado
+baggage (def. Baggage is another word for the bags you put your stuff in when you travel. It’s also known as "luggage" or "suitcases." If someone says you have baggage but you’re not holding anything, they’re talking about emotional baggage)&maletas
+realization (def. the process of becoming aware of something)&darse cuenta
+dumb&tonto
+toddler (def. Use the noun toddler to describe a small child who is just learning how to walk)&niñito
+peanut&maní
+butter&mantequilla
+turmoil (def. Turmoil rhymes with boil — think of the way that boiling water moves, and you'll understand what turmoil looks like. It refers to confusion, chaos, violent disturbance)&confusión; tumulto; desorden
+quackery (def. Quackery is when someone pretends to have experience or knowledge, especially in the field of medicine. It's quackery when someone poses as a doctor)&charlatan
+fog&niebla
+shallow&superficial; Poco profunda
+commute (ej. I have to commute by bus to work every day. Commuting into the city is very tiring.)&travel back and forth from work or home
+aid (def. money, food, etc. that is sent to help countries in difficult situations ej. An extra £10 million in foreign aid has been provided for victims of the earthquake)&ayuda
+crafty (def. clever at getting what you want, especially by indirect or dishonest methods)&astuto
+plan ahead&planificar con anticipación; planificar de antemano
+posit&postular
+sought&buscado
+meet (ej. Did you meet anyone in town? - I've never met anyone like her)&reunirse
+mess (ej. The room was in a mess - a financial mess)&lío; enrredo; confución; desastre
+might (ej. He might get there in time, but I can't be sure)&podria
+miss&perder; fallar
+mixture&mezcla; mezcolanza
+moreover&ademas
+nevertheless (def. despite something that you have just mentioned)&sin embargo
+nod (ej. I asked him if he would help me and he nodded)&asentir
+northern&septentrional; del norte
+nowhere&en ninguna parte
+quackery&charlatan; charlataneria
+atrocious&atroz
+deviancy&desviación
+brush&cepillo
+broad&ancho
+indict&procesar
+Certainly&ciertamente
+stitch&puntada
+archaic (def. old and no longer used)&arcaico
+flea&pulga
+antiquity&antigüedad
+rigorous&riguroso
+scope (def. the opportunity or ability to do or achieve something ej. First try to do something that is within your scope - The police are broadening the scope of their investigation)&alcance
+->meal&comida
+manner&manera
+marriage&matrimonio; boda
+maker&fabricante
+mall&centro comercial
+maintenance&mantenimiento
+lung&pulmon
+lunch&almuerzo
+loss&perdida
+loud&ruidoso
+loose (ej. One of the bricks feels slightly loose)&suelto
+lock&bloquear; cerradura
+fasten&abrocharse
+sage&sabio
+blaring&estridente
+tidal wave&maremoto
+
+urges&instar; incitar
+thorough (def. done completely; with great attention to detail ej. a thorough knowledge of the subject)&minucioso; exahustivo
+jury&jurado
+lick&lamer
+large&grande
+Latin&latino
+laugh&risa
+lawn&césped
+lawsuit (ej. She has filed a lawsuit against her employers because she says the accident was their fault)&litigio; demanda
+lay&poner; colocar
+lead&dirigir
+leader&líder
+leadership&liderazgo
+lean (def. to bend or move from a straight position to a sloping position ej. She leaned forward and whispered something in his ear)&inclinarse; reclinarse
+least (def. smallest in size, amount, degree, etc. ej. He's the best teacher, even though he has the least experience)&menos
+lemon&limón
+length&longitud
+library&biblioteca
+license&licencia
+lifetime&toda la vida
+-> lift&levantar; ascensor
+
+brag (def. to talk too proudly about something you own or something you have done)&jactarse
+crutch (def. one of two long sticks that you put under your arms to help you walk after you have injured your leg or foot)&muleta
+shoelace&cordon de zapato
+sovereignty&soberanía
+paraphrase&parafrasear
+reliance&dependencia
+razor&navaja
+untestable&incontrolable
+feasible (def. ​that is possible and likely to be achieved Ej. It's just not feasible to manage the business on a part-time basis.)&factible; realizable
+plausible (def. reasonable and likely to be true Ej. Her story sounded perfectly plausible)&plausible
+ignoramus&ignorante
+individual&individuo
+inquiry (def. an official process to find out the cause of something or to find out information about something Ej. a murder inquiry )&investigación
+insight&idea; perspicacia; percepción; intuición; agudeza; perspicaz
+inspire&inspirar
+instead&en lugar de; en ves de
+intend (def. to have a plan, result or purpose in your mind when you do something Ej. I never intended to hurt you)&tener la intención de hacer algo
+interpret (def. to explain the meaning of something)&interpretar
+involve (Ej. Any investment involves an element of risk)&involucrar
+iron&planchar
+joint (def. ​involving two or more people together Ej. a joint account)&en conjunto; articulación
+journey&viaje
+judge&juez
+
+stew&estofado
+asleep&dormido
+host (def.  a person who invites guests to a meal, a party, etc. or who has people staying at their house)&anfitrión; huésped; hospedador
+guest&invitado; huésped
+household&hogar; casa; familia; doméstico
+housing&alojamiento; viviendas
+however&sin embargo
+hundred&cien
+hypothesis&hipótesis
+imply&implicar
+impose&imponer
+incorporate&incorporar
+income (def. the money that a person, a region, a country, etc. earns from work, from investing money, from business, etc.)&ingreso; renta
+-> inner&interno; interior
+
+toast&brindis
+regret (def.)&lamentar; arrepentirse; pesar
+pour&verter; derramar
+soak&empapar; remojar
+widow&viuda
+bride (def. ​a woman on her wedding day, or just before or just after it)&novia
+groom&novio
+sneeze&estornudo
+indeed (def. used to emphasize a statement, description, etc. OJO This word has many uses and definitions)&ciertamente,de hecho
+peers&compañeros
+reputable&acreditado; de buena reputación
+commendable&recomendable
+breakthrough (def. Trump called it “a breakthrough.”)&progreso; un gran avance
+impasse(def. a difficult situation in which no progress can be made because the people involved cannot agree what to do)&punto muerto; callejón; impasse
+
+behave (def. to do things in a particular way Ej. They behaved very badly towards their guests)&comportarse
+rookie&novato
+spreadsheet&hoja de cálculo
+savant (def. ​a person with great knowledge and ability)&sabio
+handouts&folleto; volante; limosna; caridad
+appraise&apreciar; evaluar
+voucher (def. a printed piece of paper that can be used instead of money to pay for something, or that allows you to pay less than the usual price of something Ej. a voucher for a free meal)&vale; cupón; comprobante
+bloom&florecer
+cautious (def. ​being careful about what you say or do, especially to avoid danger or mistakes; not taking any risks)&cauteloso
+awkward&incómodo
+toss&lanzar
+lazy&perezoso
+growth&crecimiento
+guard&guardia; guardar; proteger
+guest&invitado; huésped
+guilty&culpable
+habit&hábito
+handful&puñado
+handle&manejar; manipular; encargarse de
+hardly&apenas
+headline (Def. the title of a news article printed in large letters)&Titular; Encabezado
+heel&talón
+heritage (Def. the history, traditions, buildings and objects that a country or society has had for many years and that are considered an important part of its character Ej. Spain’s rich cultural heritage)&patrimonio
+hire&alquiler; arriendo
+historian&historiador
+horizon&horizonte
+mistreat (Def. to treat a person or an animal in a cruel, unkind or unfair way)&maltratar
+fleeting (Def. lasting only a short time)&temporal; pasajero; efímero
+absurd (Def. extremely silly; not logical and sensible)&absurdo
+jar&tarro; frasco; jarra
+clay&barro; arcilla
+surpasing (Def. more impressive than anything else of its kind)&Incomparable; inigualable
+feeble (Def. very weak)&débil
+pot (Def. a deep round container used for cooking things in)&olla; bote; maceta
+awestruck (Def. feeling very impressed by something Ej. People were awestruck by the pictures the satellite sent back to Earth)&impresinado
+astound (Def. very surprised or shocked by something, because it seems very unlikely Ej. How can you say that? I'm absolutely astounded)&asombrar
+round&redondo
+satellite&satélite
+neat (Def. tidy and in order; carefully done or arranged Ej. She kept her desk extremely neat)&ordenado; pulcro
+appealing&atractivo
+conflate&combinar
+varying&diverso
+transient&transitorio ; pasajero ; fugaz
+accomplishment&logro
+donate (Def.  to give money, food, clothes, etc. to somebody/something, especially a charity&donar
+assertion (Def. a statement saying that you strongly believe something to be true Ej. Do you have any evidence to support your assertions?)&declaración; afirmación
+bleachers (Def. rows of seats at a sports ground that are cheaper and not covered by a roof)&graderío; las gradas
+encapsulates&encapsula
+confused&confuso
+theist&teísta
+indeed&verdaderamente; de hecho; en verdad; ciertamente; por supuesto
+atheism&ateismo
+stance (Def. the opinions that somebody has about something and expresses publicly)&postura
+interrelated&interrelacionado
+conviction&convicción
+clarity&claridad
+slant (Def. to slope or to make something slope in a particular direction or at a particular angle Ej. The findings of the report had been slanted in favour of the manufacturers)&inclinacion; sesgo; punto de vista
+slope (surface or piece of land that slopes [is higher at one end than the other] Ej. The town is built on a slope)&pendiente; loma; ladera
+taint (def. ​to damage or harm the quality of something or the opinion that people have of somebody/something Ej. The administration was tainted with scandal)&contaminar; manchar
+growl&gruñido
+Muslim&musulman
+celestial&celestial
+dictator&dictador
+prejudicial&perjudicial
+pejorative&peyorativo
+straight (Def. not in a curve or at an angle; in a straight line)&directamente; derecho; recto
+straight away&inmediatamente (Def. sin demora)
+heap&una ruma; un monton de algo suelto; un monto; una pila de; amontonar
+undertake (Def. to promise to do something Ej. University professors both teach and undertake research)&encargarse de ; comprometerse a hacer algo
+flaw (Ej. There is still a basic flaw in your selection procedure)&defecto ; falla ; imperfección
+fair-minded&imparcial (def. No ser partidario de ningun bando o parcialidad)
+thrive (def. to become, and continue to be, successful, strong, healthy, etc. Ej. New businesses thrive in this area)&prosperar
+helpless (def. unable to take care of yourself or do things without the help of other people Ej. The worst part is being helpless to change anything)&Indefenso ; impotente ; desamparado
+ultimately (Def. in the end; finally ; at the most basic and important level)&al final ; por último ; a la larga
+abhor&aborrecer
+sunbathing&broncearse
+engulf (Ej. He was engulfed by a crowd of reporters)&envolver
+shrinkage&encogimiento
+earliest&más temprano
+likeliest&mas probable
+roughly&aproximadamente ; toscamente
+brackets&paréntesis
+elderly&mayor anciano
+beard&barba
+trainers&zapatos deportivos
+trouser&pantalon
+grant (Ej. My request was granted Def. to agree to give somebody what they ask for, especially formal or legal permission to do something)&conceder; otorgar
+flight&vuelo
+forth&adelante
+funding (Ej. There have been large cuts in government funding for scientific research.Def. money for a particular purpose; the act of providing money for such a purpose)&fondos
+hip&cadera
+waist&cintura
+furthermore(Ej. He said he had not discussed the matter with her. Furthermore, he had not even contacted her. Def. ​in addition to what has just been stated. Furthermore is used especially to add a point to an argument)&además
+gang (Ej. Several gang members have been arrested)&pandilla
+gap (Ej. There are huge gaps in their knowledge.)&brecha
+garlic&ajo
+gate (Ej. He pushed open the garden gate.)&portón
+steadily (Ej. to look steadily at somebody..)&continuamente ; sostenidamente ; fijamente
+gaze (Ej. She gazed at him in amazement. Def.to look steadily at somebody/something for a long time, either because you are very interested or surprised, or because you are thinking of something else)&mirada ; mirar con fijeza
+gear (Ej. The car pulled up with a screech of brakes and a grinding of gears)&engranaje ; marcha
+gesture (Ej. He made a rude gesture at the driver of the other car)&gesto
+gift (Ej. He knew from an early age he had a special gift)&regalo ; don ; donación
+glad (Ej. I passed the test! I’m so glad)&encantado ; contento
+golden(Ej. a golden crown)&dorado
+grab (Ej. She grabbed his arm as he got up to leave.)&agarrar ; coger
+grain (Ej. Russia sold 12 million tons of grain abroad last year.)&grano
+grand (Ej. It's not a very grand house)&grandioso ; magnifico
+longstanding&de larga data ; que existe desde hace mucho tiempo
+replacement&reemplazo
+top court&tribunal supremo
+bumps (Ej. bumps in the highway)&Topes
+fined&multado
+antitrust&antimonopolio
+fit&ajuste
+finance&finanza
+fiber&fibra
+fewer&menos
+fool&tonto ; engañar
+that struck me&Eso me llamó la atención
+the get-go&el comienzo
+Looks like&parece
+manmade&artificial
+unknowns&incógnitas
+species&especies
+oats&avena
+wheat&trigo
+inefficiency&ineficiencia
+grim&severo
+antennae&antenas
+locust&langosta
+lead&dirigir
+swarm&enjambre
+observance (def. the practice of obeying a law, celebrating a festival or behaving according to a particular custom Ej. a strict observance of the Sabbath)&observacia
+ fellow&colega ; compañero
+burst&estallar
+fate&destino
+failure&fracazo
+express&rapido
+exposure (def. exposure (to something) the state of being in a place or situation where there is no protection from something harmful or unpleasant)&exponer
+explode (def. to burst (= break apart) or make something burst loudly and violently, causing damage)&explotar
+exhibit&exposición
+exchange&intercambiar
+exceed&exceder
+ethics&ética
+estate&finca
+essay (def. a short piece of writing by a student as part of a course of study)&ensayo
+entrance (def. a door, gate, passage, etc. used for entering a room, building or place)&entrada
+positioned&posicionado
+eateries&restaurantes
+pricey&caro
+adventurous&aventurero
+cuisines&cocina
+nationwide (Ej. But Chinese food is the top ethnic food nationwide)&A lo lago de la nacion ; A nivel nacional
+dwarf&enano
+ engineer&ingeniero
+auction&subasta
+facing&de frente a ; orientado a
+engage (Def. engage something/somebody (formal) to succeed in attracting and keeping somebody’s attention and interest Ej. It is a movie that engages both the mind and the eye)&enganchar 
+enforcement (Def. the act of making people obey a particular law or rule Ej. strict enforcement of regulations)&aplicación 
+employment&empleo
+employee&empleado
+employ&emplear
+emphasize&enfatizar
+emphasis&énfasis
+emerge&surgir ; emerger
+embrace&abrazo
+elsewhere&en otra parte
+eastern&oriental
+ease (Def. lack of difficulty Ej. with ease He passed the exam with ease)&facilitar
+eager&ansioso ; entusiasmado
+draw&dibujar ; empate ; sorteo ; tablas (empate)
+draft&sequía
+downtown&centro de la ciudad
+glow&resplandor
+praise&elogio ; alabanza
+
+dominant&dominante
+argue&discutir
+divide&dividir
+diverse&diverso
+district (def. an area of a country or town, especially one that has particular features)&distrito
+distinguish (def. to recognize the difference between two people or things)&distinguir
+distinct&distinto
+distance&distancia
+disorder (def.  an illness that causes a part of the body to stop functioning correctly)&trastorno
+dismiss (def. to decide that somebody/something is not important and not worth thinking or talking about)&descartar
+disease&enfermedad
+discuss&discutir
+discovery&descubrimiento
+discourse&discurso
+discipline&disciplina
+disaster&desastre
+disappear&desaparecer
+disagree&desacuerdo ; discrepar
+dirt&suciedad
+dining (Ej. A patio area just outside the house is ideal for outdoor dining)&comida
+dig&cavar
+
+differ&diferir de
+wet&mojado
+owe&deber
+diet&dieta
+dialogue&diálogo
+devote&dedicar
+destroy&destruir
+despite&a pesar de (def. used to show that something happened or is true although something else might have happened to prevent it Ej. Her voice was shaking despite all her efforts to control it)
+desperate&desesperado
+design&diseño
+desert&desierto(def. a large area of land that has very little water and very few plants growing on it. Many deserts are covered by sand Ej. the Sahara Desert)
+derive&derivar
+deputy&diputado
+depth&profundidad
+depict&representar (def. to show an image of somebody/something in a picture Ej. The artist had depicted her lying on a bed)
+deny&negar (def.  to say that something is not true Ej. He has denied any involvement in the incident)
+demonstrate&demostrar (def. to show something clearly by giving proof or evidence Ej. New research convincingly demonstrates that age-related memory loss is not inevitable)
+democracy&democracia(def. a system of government in which the people of a country can vote to elect their representatives Ej. the principles of democracy)
+deliver&entregar (def. to take goods, letters, etc. to the person or people they have been sent to Ej. I get my food delivered from the supermarket to save time.)
+deficit&déficit (def. the amount by which money spent or owed is greater than money earned in a particular period of time Ej. The trade balance has been in deficit for the past five years)
+disowned&renegar de (def. to decide that you no longer want to be connected with or responsible for somebody/something Ej. Her family disowned her for marrying a foreigner)
+censorship&the process of removing opinions from books, movies, letters and other media
+
+scholarship&beca
+great&Excelente
+depressed&deprimido
+overrule&anular ; desautorizar (def. to change a decision or reject an idea from a position of greater power)
+farewell&despedida (def. the act of saying goodbye to somebody)
+scent&Olor ; Perfume (def. the pleasant smell that something has Ej. The air was filled with the scent of wild flowers)
+soap&jabón
+Gone are&quedaron atras ; se fueron (Ej. Gone are handshakes, kisses and hugs)
+amid&en medio (def. in the middle of or during something, especially something that causes excitement or fear Ej. He finished his speech amid tremendous applause.)
+sightseeing&turismo
+shrink&encoger (def. to become smaller)
+rage&rabia (def. a feeling of violent anger that is difficult to control Ej. He flies into a rage if you even mention the subject.)
+strive&esforzarse (def. to try very hard to achieve something Ej. They were always striving towards perfection.)
+curfew&toque de queda
+landfills&vertederos
+due&debido (def. caused by somebody/something)
+Aim&Objetivo ; proposito ; apuntar (def. to try or plan to achieve something)
+Britain&bretaña
+bar&prohibir
+Parliament&parlamento
+defector&desertor (def. a person who leaves a political party, country, etc. to join another that is considered to be an enemy)
+
+stress&énfasis (Creo)
+stir&conmover
+toll&peaje
+whichever&cualquiera
+outdated&anticuado
+prone&propenso
+excerpt&extracto
+suffice&suficiente ; satisfacer
+coffin&ataúd
+worsen&empeorar
+Yet&sin embargo
+unlawful&ilegal
+albeit&aunque
+Rusty&oxidado
+aimlessly&sin rumbo fijo ; sin dirección ; sin proposito
+Recall&recordar
+cumbersome&incómodo (ej. cumbersome machinery def large and heavy; difficult to carry; slow and complicated)
+prepend&anteponer
+as is &tal cual
+barring&excepto por ; a menos que haya (ej. Barring accidents, we should arrive on time)
+ghost&fantasma
+downing&devorar
+went on&siguió
+right up&hasta
+shelter&(sus) abrigo ; (verb) albergar
+haste&prisa (ej. doing something very quickly)
+worn&desgastado
+foreigner&extranjero
+tuition&matrícula (ej. money that is paid to a school for the right to study there)
+provide&proporcionar
+aides&ayudante
+doses&dosis
+adjuvant&auxiliar
+enactment&promulgación
+guaranteed&garantizado
+(passage) the passage of unpopular laws & la aprobación de leyes impopulares
+secession&secesión (ej. the act of separating from a nation or state)
+grounds&motivos (def. the reason for doing or believing something)
+due diligence&diligencia (def. research and analysis of a company or organization often done in preparation for a business transaction)
+Withdrawal&Retirada
+weaken&debilitar
+fees&Tarifa
+shortsighted&miope ; corto de vista
+senselessness&insensatez
+crippling&paralizar ; (sus) lisiado (def. damaging somebody's body so that they are no longer able to walk or move normally Ej.She wrote in a Twitter message, “With millions of lives at risk, the president is crippling the international effort to defeat the virus.”)
+enforcing& hacer cumplir (def. to make sure that people obey a particular law or rule Ej. It's the job of the police to enforce the law)
+uttered fewer&Pronunciar (ej. had uttered fewer words than any of them)
+
+command&dominio (def. de tener abilidad en algun tema)
+bias (def. a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly)&sesgo
+trail&rastro
+aimed&dirigidas a
+inequitable&no equitativo
+incitement&incitación
+tyrant&tirano
+distress&angustia
+lure&(verb) seducir ; (sus) señuelo
+gossip&chisme
+discrepancy&discrepancia
+outline&describir ; perfilar ; resumir ; explicar (def. to give a description of the main facts or points involved in something)
+deceptive&engañoso
+vigilant&vigilante (def. carefully noticing problems or signs of danger)
+disrupt&interrumpir
+retail&ventas al por menor
+developments&acontesimientos
+spokesman&portavoz ; vocero (def. responsable de una organización para dirigirse a los medios)
+swine flu&la gripe porcina
+hallmark (def. quality that is typical of a particular person or thing)&sello distintivo
+highlight (def. make people notice or aware of something)& (ver) destacar ; (sus) resaltar ; punto culminante
+surveillance&supervisión (def. the act of carefully watching someone or something)
+
+ defendant&acusado ; demandado ; defendido
+spotlight&centro de atención ; reflextor
+perpetuate&perpetuar
+denial&negación
+cop-out (def. a way of avoiding doing something that you should do, or an excuse for not doing it)&evadir
+supporter&partidario
+pull over (of a vehicle or its driver def. to move to the side of the road in order to stop or let something)&detenerse (habalndo de un vehiculo)
+decrease&disminución
+scuffle&riña
+aftermath&secuelas
+state&declarar
+decade&década
+deck&cubierta ; baraja
+decline& (verb) declinar ; (sus) disminución
+deer&ciervo
+
+discredited&desacreditado
+anchorman&comunicador
+critique&crítica
+forgery&falsificación
+accountable (def. adj. take responsibility for)&(adj) responsable (def. tomar la responsabilidad por algo)
+truthful&veraz
+vaccine&vacuna
+endorse&avalar
+rape&(verb)violar ;(sus)violación
+endanger (ej. The health of our children is being endangered by exhaust fumes)&poner en peligro
+Highbrow&intelectual
+perplexed&perprejo
+press&(verb) presionar ;(sus) presión 
+
+- > deal&(verb) negociar ; (sus) acuerdo
+custom&personalizado
+crop&(verb) cosechar ; (sus) cosecha ; cultivo
+criteria&criterio
+Suddenly&de repente
+appear&aparecer
+grease&grasa
+divert&desviar ; divertir
+mass (def. a large amount of a substance that does not have a definite shape or form)&masa
+uplifting&edificante
+widespread&extenso ; extendido
+fuel&(verb) combustible ; (sus) avivar ; (adj) energético
+filth&porqueria ; inmundicia
+rare&raro
+wealth&riqueza
+
+coverage&cobertura (de medios o tambien indica un rango de algo donde se aplica determinada clausula ej. cobertura de seguro)
+courage&valor ; coraje
+counselor&consejero
+cope (def.  He wasn't able to cope with the stresses and strains of the job)&hacer frente a
+thief&ladrón
+ cream&crema
+craft&arte ;  oficio
+convince&convencer
+contract&contrato
+contest&concurso
+consumption&consumo (ej. consumo energético)
+constitute&constituir
+considerable&considerable
+consider&considerar
+consciousness (def. the state of being able to use your senses and mental powers to understand what is happening Ej. I can't remember any more—I must have lost consciousness)&conciencia (def. Estado que permite el uso de sus sentidos)
+regain&recuperar
+
+mismanaged&mal administrado
+wronged&even if you’re wronged.  ==  incluso si eres perjudicado.
+belittle (def. to make somebody, or the things that somebody does, seem unimportant Ej.She felt her husband constantly belittled her achievements)&minimizar ; desestimar
+vent&(verb) desahogar ; (sus) respiradero
+blow up&explotar
+mislead&engañar
+examine&examinar
+credible&creíble
+gunman&pistolero
+mushroom&hongo
+strength&fuerza
+boast&presumir
+in the meantime&mientras tanto
+
+confidence&confianza
+concrete&cemento
+concert&concierto
+concern&(verb) referirse ; (sus) preocupación ; asunto 
+comprehensive&exhaustivo
+compose&componer
+complaint&(sus) queja ; denuncia ; reclamación
+cornerstone&piedra angular
+shatter&destrozar
+fled&hulló
+floppiness&flojera
+anguish&(verb) angustiar ; (sus) angustia
+
+readily&de buena gana ; facilmente
+glimpse&vislumbrar
+sorrow&(sus) dolor ; pena ; tristeza ; pesar
+floodgates&compuertas
+bigotry&fanatismo
+outward&el exterior
+plain&evidente
+bribe&soborno
+treat (ej. to treat people with dignity)&tratar (def. tener un particular comportamiento hacia algo o alguien)
+thoughtless (def. not caring about the possible effects of your words or actions on other people)&desconsiderado (def. no preocuparse por los posibles efectos de sus palabras o acciones)
+unpleasant&desagradable
+voyage&travesía
+The most often&la mayoría de las veces
+fig&higo
+workshop(a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience)&taller(def. periodo de discucion y trabajo practico donde se comparte expreciencia sobre un tema determinado)
+Substance&sustancia
+elderly&anciano
+pantries (def. a cupboard or small room in a house, used for storing food)&despensa ; bodega
+hollow&hueco (sus and verb)
+pious&piadoso
+mortgage&(sus)hipoteca ; (verb) hipotecar
+line up (ej.  What they say about their faith and how they choose to live don’t line up)&alinearse
+decree&(verb) decretar ; (sus) decreto
+scores&los montones
+unhindered&sin obstáculo
+long after&mucho despues
+imprisonment&encarcelamiento
+orchestrates&orquestar
+hardly&dificilmente
+stick&pegarse ; adherirse
+trial&juicio
+precede&preceder
+pose&actitud
+dismiss&descartar
+subversive&subversivo
+futile&fútil
+clash&(verb) chocar ; (sus) choque
+demonstrators&manifestantes
+namely&es decir (utilizado para intriduccir informacion mas presisa)
+committee&comité
+neat&pulcro ; ordenado
+cite&citar
+climate&clima
+climb&(verb) escalar ; (sus) escalada
+command&(verb) mandar ; ordenar (sus) orden ; comando
+clothing&vestimenta
+commit&cometer
+cluster& (verb) agrupar ; (sus) racimo
+commitment&compromiso
+coal&carbón
+coalition (def. formed by two or more parties working together)&coalición (def. Union entre dos partes)
+compete&competir
+
+dare&atreverse
+growl&gruñir ; gruñido
+oppose&oponerse
+groundbreaking&innovadora ; pionera
+undertake&emprender
+hyphen&guión
+desirable&deseable
+constraint&restricción
+chamber(def. a hall in a public building that is used for formal meetings)&camara (def. un salon en un edificio publico que es usado para reuniones formales)
+championship&campeonato
+characterize&caracterizar
+chart&gráfico
+chase (def. to run, drive, etc. after somebody/something in order to catch them or it. ej. My dog likes chasing rabbits)&perseguir (def. ir tras de algo o alguien)
+chemical&químico
+chest&cofre
+
+colleague&colega
+afresh&de nuevo
+lifelong&para toda la vida ; de por vida
+brief&breve
+buck&dolar
+cabinet&armario
+camp&acampar
+capability&capacidad
+capable&capaz
+carrier&transportista
+ceiling&techo
+certain&cierto
+chairman&presidente ; gobernador
+
+rubble&escombros
+beneath&debajo
+heap(def. an untidy pile of something)&un monton de (def. una pila desordenada de algo)
+bind (def. to tie somebody/something with rope, string, etc. so that they/it cannot move or are held together strongly)&atar ; bendar ; obligar
+bite&morder
+blade&espada
+bond (def. something that forms a connection between people or groups, such as a feeling of friendship or shared ideas and experiences)&vínculo
+boundary&perímetro
+brand&marca (def. comercial)
+breast&ceno
+
+bench(def.a long seat for several people, typically made of wood or stone)&banca ; exhibir (def. Asiento de madera o piedra)
+bean&frejol
+basket&canasta ; cesto
+behavior&comportamiento
+awareness&conciencia
+barely&apenas
+background&antecedentes
+standalone&autonomo
+balance&equilibrar
+ban&prohibición
+belief&creencia
+below&abajo ; debajo ; por debajo
+breed&raza
+bend(Def. to lean, or make something lean, in a particular direction)& (Ver) dobrar ; (Sus) curva
+
+assault&asalto
+asleep&dormido
+arrest&arrestar
+arise&surgit
+xpledge (Ej. Guerrillas have pledged to intensify the armed struggle against the new government.)&compromiso
+assert&afirmar ; asegurar
+assess&evaluar
+asset&activo ; posesión capital
+assign&asignar
+assist&asistir ; ayudar
+assistance&asistencia
+assistant&asistente
+associate&asociado
+attach&adjuntar
+attend(Def.to be present at an event Ej.We'd like as many people as possible to attend)&asistir
+argue&discutir
+attorney&abogado
+campaign&canpaña
+candidate&candidato
+career&carrera ; profesión
+claim&reclamación
+abandon&abandonar
+abroad&el extranjero ; el exterior
+absence&ausencia
+accomplish&lograr ; cumplir ; realizar
+according&conforme
+accuse&acusar
+acquire&adquirir
+actress&actriz
+admire&admirar
+admission&adminsión
+advertising&publicidad
+afford&permitirse
+agenda&agenda
+aid&ayuda ; asistencia
+
+populating&poblar
+cater&abastecer
+underlying&subyasente
+So far&Hasta aqui ; Hasta ahora
+shut&cerrar
+snore&roncar
+avocado&aguacate
+reinforce&reforzar
+enthrone&entronizar
+parcel&paquete
+worded&almacen
+word&redactar
+unsuitable&inadecuado
+fitting&adecuado
+as is to&tal cual es
+scaffolding&andamiaje
+deviation&desviacion
+sought&procurar
+at once(Ej. Daniel *went at once* and)&de inmediato
+tactfully(Def. in a way that is careful not to say or do anything that will annoy or upset other people Ej. a tactfully worded reply)&diligentemente
+desperate&desesperado
+determined&determinado
+tackle(Def.tackle something to make a determined effort to deal with a difficult problem or situation Ej. The government is determined to tackle inflation.)&abordar ; atacar ; atajar
+kneel&arrodillarse
+ridicule&ridículo
+sensing&sentir ; percibir
+pigeon&paloma
+disguise&disfraz
+briefcase&maletín
+launch&lanzar ; iniciar
+enraged&enfurecido
+paradoxical&paradójico
+on behalf&a favor de ; en parte de
+laid out&dispuesto
+issue&emitir
+tamper&interferir manipular
+peek (Def. a quick and secret look at something that you should not be looking at Ej. I took a quick peek inside)&Ojeada (echar una ojeada)
+hood&capucha
+
+regards (*Ej.* Pay particular attention to this *with regards to* tabs and spaces) & considereado como (respecto a)
+proceed (*Def.*  to continue doing something that has already been started; to continue being done *Ej.* We're not sure whether we still want to proceed with the sale) & proceder (continuar seguir)
+assume (*Def.* to think or accept that something is true but without having proof of it *Ej.* Let us assume for a moment that the plan succeeds) & asumir
+preclude (*Def.* to prevent something from happening or somebody from doing something; to make something impossible *Ej.* My lack of interest in the subject precluded me from gaining much enjoyment out of it) & imposibilitar (evitar)
+gist (*Def.* gist [of something] the main or general meaning of a piece of writing, a speech or a conversation *Ej.* It is difficult to convey the gist of Reich's ideas simply.) & esencia (sentido - idea principal)
+vague (*Def.* not clear in a person’s mind *Ej.* They had only a vague idea where the place was) & vago (vaga idea)
+means (*Def.* an action, an object or a system by which a result is achieved; a way of achieving or doing something *Ej.* this tragedy actually became the means by which Jesus' people ..) & medio
+notice (*Def.* to become aware of somebody/something *Ej.* People were making fun of him but he didn't seem to notice.) & (Verbo) Notar (Adj. Nota - Aviso)
+assumptions & supuestos
+failure & fracaso
+
+immerse (Def. to put somebody/something into a liquid, especially so that they or it are completely covered Ej. The seeds will swell when immersed in water) & sumergirse
+tale (Def. a story created using the imagination, especially one that is full of action and adventure) & cuento
+heat (Ej. But sometimes God uses heat in your life to burn off the stuff that’s tying you down) & calor
+furnace & horno
+silversmith & platero
+steadily & continuamente
+
+barrier (Def. an object like a fence that prevents people from moving forward from one place to another Ej. The crowd had to stand behind barriers) & barrera
+unheard (Def. that nobody pays attention to
+ Ej. Their protests went unheard.) & inaudito
+prompted (Ej. You mean the specific issues in the church of a city that prompted the writing of the letter in the first place.) & motivado (motivaron)
+tempting & tentador
+contempt (Def. the feeling that somebody/something is without value and deserves no respect at all Ej. some christians with higher social status were treating Jewish followers of Jesus with contempt. ) & Desprecio
+second-rate & de segunda clase
+crafted & diseñado
+acknowledge (Def. to accept that something is true Ej. I have to acknowledge the fact that I am partly responsible.) & reconocer
+
+
+
+foster (Ej. The club's aim is to foster better relations within the community) & Fomentar
+recipients (Ej. a person who receives something) & receptor
+haunted & obsesionado (encantado - embrujado)
+standpoint (Def. ​an opinion or a way of thinking about ideas or situations Ej. We must approach the problem from a different standpoint) & Punto de vista
+stumble (Def. A problem or temporary failure when you are on the way to achieving something. Ej. There were good reasons for the team's first-round stumble against Los Angeles) & Tropezar 
+harm (Def. damage or injury that is caused by a person or an event Ej.The accused clearly intended to inflict harm on him.) & Perjucio (daño) 
+drill & perforar (taladrar - simulacro)
+allot (Def. to give time, money, tasks, etc. to somebody/something as a share of what is available Ej. How much money has been allotted to us?) & asignar 
+clutter (Def. to fill a place or area with too many things, so that it is untidy Ej. I don't want all these files cluttering up my desk) & desorden 
+essay & ensayo
+rise (Def. to come or go upwards; to reach a higher level or position Ej. The river has *risen* by several metres) & move upwards 
+
+quench (quench your thirst to drink so that you no longer feel thirsty) & aplacar sofocar
+habitable&habitable (Antonimo: uninhabitable)
+lush&exuberante (de rica vida)
+drought&sequía
+suspicious&sospechoso (receloso)
+neither&tampoco
+waned&menguar (disminuir)
+Square up&No cuadra (Ej. Then, when falsehoods come along, you’ll see that they don’t square up.)
+thrust&to push something/somebody suddenly or violently in a particular direction; to move quickly and suddenly in a particular direction
+spear&a weapon with a long wooden handle and a sharp metal point used for fighting, hunting and fishing in the past
+sharp&afilado (agudo)
+fountain&Fuente (a structure from which water is sent up into the air by a pump, used to decorate parks and gardens)
+scheming&Intrigante (often planning secretly to do something for your own advantage, especially by cheating other people)
+hinge&bisagra
+shaky& inestable - tembloroso (Ej. you’ll always be on shaky ground)
