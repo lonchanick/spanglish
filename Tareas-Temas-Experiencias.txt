@@ -1,9 +1,6 @@
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
-	-> so far
-	-> come up
-	-> ain't || práctica
 	-> gotten
 	-> uso del have y has
 	-> cuando se le agrega una s al verbo (cuando se habla de una 3ra persona)
@@ -50,6 +47,10 @@ TEMAS PENDIENTES DE REVISAR
 		->......
 
 									(READY)
+		
+
+		-> ain't || práctica
+		-> come up
 		-> uso del do y  does
 		-> ever //estudia sus traducciones
 		-> tiempos verbales {URGENTE} //no fue necesario, mucho lio
