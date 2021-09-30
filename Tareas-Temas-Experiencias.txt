@@ -1,9 +1,7 @@
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
-	-> gotten
-	-> uso del have y has
-	-> cuando se le agrega una s al verbo (cuando se habla de una 3ra persona)
+	
 	-> Formacion de plural y casos especiales (man y woman)
 	-> consulta terminaciones (sufijos y prefijos) de palabras en ingles Ej. ment (establishment accomplishment etc)
 		* terminacion er (ej advisER, baker)
@@ -47,8 +45,9 @@ TEMAS PENDIENTES DE REVISAR
 		->......
 
 									(READY)
-		
-
+		-> cuando se le agrega una s al verbo (cuando se habla de una 3ra persona)
+		-> uso del have y has		
+		-> gotten
 		-> ain't || práctica
 		-> come up
 		-> uso del do y  does

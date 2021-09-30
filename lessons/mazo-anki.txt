@@ -2,3 +2,7 @@ ain't&->am not ->isn't ->aren't ->haven't ->hasn't
 How come&¿Cómo es que ...?
 Come up&Surgir - Acercarce [EJ] If something COMES UP, let me know [EJ] Come up here
 Bring up&Sacar un Tema | Traer a colación [EJ] If it doesn't come up in the meeting, then bring it up.
+Gotter&Es el pasado participio del verbo 'got'
+Responda segun corresponda: ¿Los ronombres que se emplean con la plabra "has" (para formar el presente perfecto) son?&It - He - She
+Responda segun corresponda: ¿Los ronombres que se emplean con la plabra "have" (para formar el presente perfecto) son?&I - You - We - They
+¿Cual es la regla para conjugar un verbo con los pronombres He-She-It?&Se agrega la letra 'S' al final e cada verbo. [EJ] She talks - He walks - It Falls
