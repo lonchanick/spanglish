@@ -1,12 +1,10 @@
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
-	
-	-> Formacion de plural y casos especiales (man y woman)
-	-> consulta terminaciones (sufijos y prefijos) de palabras en ingles Ej. ment (establishment accomplishment etc)
-		* terminacion er (ej advisER, baker)
-	-> has un banco de preguntas  que podrian surgir durante una conversacion en ingles Ej. ¿como se dice TAL-COSA en ingles? ¿Podrias repetir la ultima parte? etc..
-	-> do y does
+		-> revisa verbos frasales
+		-> PROBLEMAS DE PRONUNCIACIÓN BUSCA AYUDA (corazon - oido de oir en pasado)
+		-> prefijos y sufijos (tema extenso dedicale tiempo) url: https://www.curso-ingles.com/aprender/cursos/nivel-avanzado/word-formation/prefixes-and-suffixes
+		
 	-> HACER MAZO DE ADJETIVOS MAS USADOS Y TODOS LOS DEMAS
 
 	-> HACE MAZOS DE VOCABULARIO POR TEMAS
@@ -14,14 +12,6 @@ TEMAS PENDIENTES DE REVISAR
 	    -> Deportes
 	    -> Ropa
 	    -> Etc
-
-	-> PLURAL NOUNS
-	    singular - plural
-	     man        men
-	     woman      women
-	     child      children
-	     food       feet
-	     mouse      mice
 
 	-> DESCRIBING PEOPLE
 	    Look like
@@ -33,18 +23,12 @@ TEMAS PENDIENTES DE REVISAR
 	    B: Yes, they do, they are blonde and short
 
 
-	    Slender = Esbelta / Esbelto
 
-	    Tattooed = Tatuado
+									(LECCIONES ESTUDIADAS)
 
-	    Bald = Calva / Calvo
-
-	    Fit = En forma
-
-	    do you take after any of them?
-		->......
-
-									(READY)
+		-> has un banco de preguntas  que podrian surgir durante una conversacion en ingles Ej. ¿como se dice TAL-COSA en ingles? ¿Podrias repetir la ultima parte? etc..
+		-> Formacion de plural y casos especiales (man y woman)
+		-> whom
 		-> cuando se le agrega una s al verbo (cuando se habla de una 3ra persona)
 		-> uso del have y has		
 		-> gotten

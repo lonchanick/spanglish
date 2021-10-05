@@ -1,0 +1,17 @@
+child&children
+man&men
+woman&women
+foot&feet
+tooth&teeth
+goose&geese
+mouse&mice
+louse&lice
+parenthesis&parentheses
+diagnosis&diagnoses
+cactus&cacti
+fungus&fungi
+deer&deer
+fish&fish
+moose&moose
+sheep&sheep
+person&people
