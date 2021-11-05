@@ -1,17 +1,39 @@
 ===========================
+	RUTINA 11/06/2020
+===========================
+	#Listening is the most important of all of these
+	#pudes sustituir todas estas actividades por algun video podcast que te interese, asi practicas listening y adquieres nuevas palabras
+
+	-> Listening (UNA HORA o mas) (REPITE CUANTAS VECES SEA NECESARIO HASTA ENTENDER)
+		* ejercicios on web (https://www.esl-lab.com/) (Listen it twice!)
+		* Rick Warren Podcast (Listen it twice!)
+
+	-> Platzi English Academy (MEDIA HORA)
+		* Se paciente, 
+		* no te adelantes, 
+		* toma apuntes, 
+		* aprende y auto evaluate, 
+		* ejercita lo aprendido
+
+	-> Memorizing (MEDIA HORA)
+		ANKI 
+			* vocabulario, 10 palabras diarias
+			* frasal verbs (5 diarios)
+			* expresiones
+
+	-> Reading
+		*as you can as much 
+
+	-> Desarrolla temas pendientes (MEDIA HORA)
+
+
+===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
-		-> revisa verbos frasales
 		-> PROBLEMAS DE PRONUNCIACIÓN BUSCA AYUDA (corazon - oido de oir en pasado)
-		-> prefijos y sufijos (tema extenso dedicale tiempo) url: https://www.curso-ingles.com/aprender/cursos/nivel-avanzado/word-formation/prefixes-and-suffixes
-		
-	-> HACER MAZO DE ADJETIVOS MAS USADOS Y TODOS LOS DEMAS
-
-	-> HACE MAZOS DE VOCABULARIO POR TEMAS
-	    -> Porfeciones
-	    -> Deportes
-	    -> Ropa
-	    -> Etc
+		-> prefijos y sufijos (tema extenso dedicale tiempo) 
+			url: https://www.curso-ingles.com/aprender/cursos/nivel-avanzado/word-formation/prefixes-and-suffixes
+		-> HACE MAZOS DE VOCABULARIO POR TEMAS
 
 	-> DESCRIBING PEOPLE
 	    Look like
@@ -24,9 +46,11 @@ TEMAS PENDIENTES DE REVISAR
 
 
 
-									(LECCIONES ESTUDIADAS)
-
-		-> has un banco de preguntas  que podrian surgir durante una conversacion en ingles Ej. ¿como se dice TAL-COSA en ingles? ¿Podrias repetir la ultima parte? etc..
+			(LECCIONES ESTUDIADAS)
+		-> HACER MAZO DE ADJETIVOS MAS USADOS Y TODOS LOS DEMAS
+		-> revisa verbos frasales
+		-> has el mazo de frases dentro de su contexto
+		-> has un banco de preguntas  que podrian surgir durante una conversacion en ingles 	Ej. ¿como se dice TAL-COSA en ingles? ¿Podrias repetir la ultima parte? etc..
 		-> Formacion de plural y casos especiales (man y woman)
 		-> whom
 		-> cuando se le agrega una s al verbo (cuando se habla de una 3ra persona)
@@ -54,6 +78,10 @@ TEMAS PENDIENTES DE REVISAR
 ===================================================================================
 	DIARIO DE APRENDIZAJE, ACA APUNTO DETALLES DE COMO LLEVAR UN MEJOR APRENDIZAJE
 ===================================================================================
+	
+	-> los mazos de vocabulario deben estudiarse por temas
+	-> aprende un significado a la ves, nunca pongas varios significados de la misma palabra en una flashcard
+	-> Estudiar la traducción tanto en inglés como en español
 
 	Tu aprendizaje debe estar entorno a estas actividades
 		-> Listening
@@ -70,7 +98,7 @@ TEMAS PENDIENTES DE REVISAR
 
 	#Es importante hacer los ejercicios respondiendo en español, ya que lo importante es aprender a entender el ingles
 
-	#Es importante colocar en las flash cards ejemplos tanto en presente como en pasado
+	#Es importante colocar en las flash cards ejemplos tanto en presente como en pasado (y pasado participio)
 
 	#EN CASO DE SER UN VERBO AGREGAR TODOS SUS TIEMPOS
 
@@ -89,26 +117,6 @@ TEMAS PENDIENTES DE REVISAR
 
 	leer mucho
 		temas de interes
-
-===========================
-	RUTINA 11/06/2020
-===========================
-	#Listening is the most important of all of these
-	#pudes sustituir todas estas actividades por algun video podcast que te interese, asi practicas listening y adquieres nuevas palabras
-
-	->Listening 1h o mas (REPITE CUANTAS VECES SEA NECESARIO HASTA ENTENDER)
-		* ejercicios on web
-
-	->Reading
-		* as much as you can
-
-	->Memorizing
-		Quizlet 1h
-			* vocabulario, 10 palabras diarias -> 15min
-			* frasal verbs (5 diarios) -> 10min
-			* expresiones (<>) -> 5min
-			* curso de ingles (desarrolla temas pendientes)
-
 
 ==============================
 Consejos para el aprendizaje
